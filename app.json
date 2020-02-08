@@ -1,7 +1,7 @@
 {
     "name": "mastodon-welcome-bot",
     "description": "a mastodon bot that sends out welcome toots to new users",
-    "repository": "https://github.com/indyhall/mastodon-welcome-bot",
+    "repository": "https://github.com/Shleeble/mastodon-welcome-bot",
     "keywords": ["mastodon", "social media", "welcome", "bot"],
     "addons": [
         { "plan": "scheduler:standard" }
